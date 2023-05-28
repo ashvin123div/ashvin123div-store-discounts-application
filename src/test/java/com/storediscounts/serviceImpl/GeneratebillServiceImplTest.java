@@ -1,4 +1,4 @@
-package com.storediscounts;
+package com.storediscounts.serviceImpl;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
