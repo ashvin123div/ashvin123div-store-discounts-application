@@ -17,3 +17,4 @@ store-discounts-application
 mvn clean install
 Run the application
 
+## please check api Document in Document.dox file
